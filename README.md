@@ -38,3 +38,8 @@ I post most of my research and other interesting tutorials on [my blog](https://
 ## 🏆 Bug Bounty: 
 - [BugCrowd](https://bugcrowd.com/ZephrFish)
 - [HackerOne](https://hackerone.com/ZephrFish)
+
+## Badges
+<img src="https://media.eu.badgr.com/uploads/badges/assertion-srL135b8Q-u0FzA4luzang.png" data-canonical-src="https://media.eu.badgr.com/uploads/badges/assertion-srL135b8Q-u0FzA4luzang.png" width="250" height="250" /><img src="https://media.eu.badgr.com/assertion-ddb1c09e327b340fee8e5bbd6e58ba1e.png" data-canonical-src="https://media.eu.badgr.com/assertion-ddb1c09e327b340fee8e5bbd6e58ba1e.png" width="250" height="250" /><img src="https://media.eu.badgr.com/uploads/badges/585c625b45167c849f8ae58054984c1b08f735c547b945818e75f661d742d25f.png" data-canonical-src="https://media.eu.badgr.com/uploads/badges/585c625b45167c849f8ae58054984c1b08f735c547b945818e75f661d742d25f.png" width="250" height="250" />
+
+
