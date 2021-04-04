@@ -40,6 +40,9 @@ I post most of my research and other interesting tutorials on [my blog](https://
 - [HackerOne](https://hackerone.com/ZephrFish)
 
 ## 📛 Badges
+Andy has been in the IT security industry for just over eight years, currently holding CREST’s CCT Infrastructure certification which is highly sought-after, in addition he holds CHECK Team Leader status. He is also a Certified Red Team Operator.
+To back up his years in industry he also holds several other certifications and accolades including OSCP, OSWP.
+
 <img src="https://media.eu.badgr.com/uploads/badges/assertion-srL135b8Q-u0FzA4luzang.png" data-canonical-src="https://media.eu.badgr.com/uploads/badges/assertion-srL135b8Q-u0FzA4luzang.png" width="250" height="250" /><img src="https://media.eu.badgr.com/assertion-ddb1c09e327b340fee8e5bbd6e58ba1e.png" data-canonical-src="https://media.eu.badgr.com/assertion-ddb1c09e327b340fee8e5bbd6e58ba1e.png" width="250" height="250" /><img src="https://media.eu.badgr.com/uploads/badges/585c625b45167c849f8ae58054984c1b08f735c547b945818e75f661d742d25f.png" data-canonical-src="https://media.eu.badgr.com/uploads/badges/585c625b45167c849f8ae58054984c1b08f735c547b945818e75f661d742d25f.png" width="250" height="250" />
 
 
