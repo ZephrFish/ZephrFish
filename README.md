@@ -1,4 +1,5 @@
 # 🔑 Intro:
+
 <img src="https://blog.zsec.uk/content/images/2021/03/image-1.png" data-canonical-src="https://blog.zsec.uk/content/images/2021/03/image-1.png" width="250" height="300" />
 
 Andy is a hacker at heart, a penetration tester, and consultant who has always been interested in taking things apart and sometimes even putting them together again (in fact he spent a good few years in computer repair and data recovery).
@@ -18,9 +19,10 @@ I post most of my research and other interesting tutorials on [my blog](https://
 - [Leanpub.com. Leanpub Interview - LTR101](https://podtail.com/podcast/frontmatter-the-leanpub-author-stories-podcast/andy-gill-author-of-breaking-into-information-secu/)
 - [BSides Leeds 2018. Hacker of All Trades: Master of None](https://www.youtube.com/watch?v=1Sj4RtMllu8)
 - [BSides Glasgow 2018. Internet of Death: Modern Murder](https://www.youtube.com/watch?v=OjcMWUo4NHw)
+- [Steelcon 2018. Breaking Into Information Security: Learning The Ropes 101](https://www.youtube.com/watch?v=4nLMcCCmEH0)
 
 ### 2019
-- [Steelcon 2018. Breaking Into Information Security: Learning The Ropes 101](https://www.youtube.com/watch?v=4nLMcCCmEH0)
+
 - [BSides Leeds 2019. Hacking Companies For Internet Glory While Not Dying In A Sarlacc Pit](https://www.youtube.com/watch?v=WQVh2vsqZQ4)
 - [Steelcon 2019. Hunting Sh*t Up - "Red Team" with a Bug Hunter's Mindset](https://www.youtube.com/watch?v=6YhiQRkTkzk)
 - [Steelcon 2019. PwnShop LollyPop - Workshop](https://blog.zsec.uk/pwnshop-lollipop/)
