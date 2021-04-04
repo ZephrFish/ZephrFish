@@ -20,6 +20,9 @@ I post most of my research and other interesting tutorials on [my blog](https://
 For those that don't know Andy, he is a strong believer in passing knowledge on and supporting the infosec community he does this by providing tutorials on his blog running his local DEF CON Chapter & has also published a book [Breaking into Information Security](https://leanpub.com/ltr101-breaking-into-infosec). He also helps out at DEF CON as a SOC Goon (Red Shirt) too each year (since DC25) assisting the SOC with operations and people flow.
 
 ## 🎤 Talks:
+
+<img src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" data-canonical-src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" width="600" height="500" />
+
 ### 2018
 - [Leanpub.com. Leanpub Interview - LTR101](https://podtail.com/podcast/frontmatter-the-leanpub-author-stories-podcast/andy-gill-author-of-breaking-into-information-secu/)
 - [BSides Leeds 2018. Hacker of All Trades: Master of None](https://www.youtube.com/watch?v=1Sj4RtMllu8)
