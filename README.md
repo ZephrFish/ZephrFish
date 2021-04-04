@@ -1,5 +1,5 @@
 # 🔑 Intro:
-![Zephr IRL](https://blog.zsec.uk/content/images/2021/03/image-1.png =250x250)
+<img src="https://blog.zsec.uk/content/images/2021/03/image-1.png" data-canonical-src="https://blog.zsec.uk/content/images/2021/03/image-1.png" width="250" height="300" />
 
 Andy is a hacker at heart, a penetration tester, and consultant who has always been interested in taking things apart and sometimes even putting them together again (in fact he spent a good few years in computer repair and data recovery).
 
