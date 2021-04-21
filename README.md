@@ -2,7 +2,7 @@
 
 <img src="https://blog.zsec.uk/content/images/2021/03/image-1.png" data-canonical-src="https://blog.zsec.uk/content/images/2021/03/image-1.png" width="250" height="300" />
 
-Andy is a hacker at heart, a penetration tester, and consultant who has always beeninterested in taking things apart and sometimes even putting them together again (in fact he spent a good few years in computer repair and data recovery).
+Andy is a hacker at heart, a penetration tester, and consultant who has always been interested in taking things apart and sometimes even putting them together again (in fact he spent a good few years in computer repair and data recovery).
 
 <p align="center">
   <a href="https://twitter.com/ZephrFish"><img src="https://img.shields.io/twitter/follow/ZephrFish?color=28aee4&label=%40zEPhrfish&logo=twitter&logoColor=28aee4&style=for-the-badge"></a>
