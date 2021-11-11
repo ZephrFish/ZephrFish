@@ -48,6 +48,9 @@ For those that don't know Andy, he is a strong believer in passing knowledge on 
 - [TUDublin HackerSoc. Red Team Talk](https://www.youtube.com/watch?time_continue=482&v=BmkDMPef7f0&feature=emb_logo)
 - [CRESTCon 2020. Nijūshiho - A Year Targeting Nippon](https://www.youtube.com/watch?v=nGBXUYbMqFk&feature=emb_logo)
 
+### 2021
+- BSides London 2021. - F*** Around & Get Found Out - Disinformation as a Service[ComingSoon]
+
 ## 🏆 Bug Bounty: 
 - [BugCrowd](https://bugcrowd.com/ZephrFish)
 - [HackerOne](https://hackerone.com/ZephrFish)
