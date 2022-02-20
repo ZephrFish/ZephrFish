@@ -49,7 +49,10 @@ For those that don't know Andy, he is a strong believer in passing knowledge on 
 - [CRESTCon 2020. Nijūshiho - A Year Targeting Nippon](https://www.youtube.com/watch?v=nGBXUYbMqFk&feature=emb_logo)
 
 ### 2021
-- BSides London 2021. - F*** Around & Get Found Out - Disinformation as a Service[ComingSoon]
+- [BSides London 2021. - F*** Around & Get Found Out - Disinformation as a Service](https://www.youtube.com/watch?v=zc-QM7mKAmg)
+
+### 2022
+- SecuriTay X (2022). - Accidental Insider Threats - HoneyPoC Part 2 [Coming Soon]
 
 ## 🏆 Bug Bounty: 
 - [BugCrowd](https://bugcrowd.com/ZephrFish)
