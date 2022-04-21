@@ -54,7 +54,7 @@ For those that don't know Andy, he is a strong believer in passing knowledge on 
 - [BSides London 2021. - F*** Around & Get Found Out - Disinformation as a Service](https://www.youtube.com/watch?v=zc-QM7mKAmg)
 
 ### 2022
-- SecuriTay X (2022). - Accidental Insider Threats - HoneyPoC Part 2 [Coming Soon]
+- [SecuriTay X 2022. - Accidental Insider Threats - HoneyPoC Part 2](https://www.youtube.com/watch?v=6TfZZsTiQUs)
 
 ## 🏆 Bug Bounty: 
 - [BugCrowd](https://bugcrowd.com/ZephrFish)
