@@ -14,6 +14,7 @@ Andy is a hacker at heart, a penetration tester and consultant who has always be
 - [Windows Hardening](https://github.com/ZephrFish/WindowsHardeningScript)
 - [PrintNightmare Detection Info](https://github.com/LaresLLC/CVE-2021-1675)
 - [HelpColor Aggressor Script](https://github.com/ZephrFish/HelpColor) - I try to keep Outflank's aggressor up to date with new cool BOFs and things :) 
+- [Malleable-C2](https://github.com/threatexpress/malleable-c2) - I actively contribute to Malleable C2 at each release explaining the different options to help you make better C2 profiles within Cobalt Strike.
 
 ![ZephrFish's github stats](https://github-readme-stats.vercel.app/api?username=ZephrFish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
