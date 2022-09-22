@@ -10,6 +10,8 @@ Andy is a hacker at heart, a penetration tester and consultant who has always be
 </p>
 
 ## ✔️ Projects:
+- [AutoHoneyPoC](https://github.com/ZephrFish/AutoHoneyPoC)
+- [SandboxSpy](https://github.com/ZephrFish/SandboxSpy)
 - [BurpFeed](https://github.com/ZephrFish/BurpFeed)
 - [Windows Hardening](https://github.com/ZephrFish/WindowsHardeningScript)
 - [PrintNightmare Detection Info](https://github.com/LaresLLC/CVE-2021-1675)
