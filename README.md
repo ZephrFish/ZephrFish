@@ -1,8 +1,6 @@
 # 🔑 Intro:
 
-<img src="https://blog.zsec.uk/content/images/2021/03/image-1.png" data-canonical-src="https://blog.zsec.uk/content/images/2021/03/image-1.png" width="250" height="300" />
-
-Andy is a hacker at heart, a penetration tester and consultant who has always been interested in taking things apart and sometimes even putting them together again. I hack, write, research and everything inbetween!
+Andy has been consulting in offensive security for over a decade, focusing on red teaming and simulated attacks with a side of threat intelligence and purple teaming. Leading engagements of varying sizes and lengths, helping grow teams and encourage risk-driven understanding.
 
 <p align="center">
   <a href="https://twitter.com/ZephrFish"><img src="https://img.shields.io/twitter/follow/ZephrFish?color=28aee4&label=%40zEPhrfish&logo=twitter&logoColor=28aee4&style=for-the-badge"></a>
