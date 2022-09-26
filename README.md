@@ -16,19 +16,19 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 - [HelpColor Aggressor Script](https://github.com/ZephrFish/HelpColor) - I try to keep Outflank's aggressor up to date with new cool BOFs and things :) 
 - [Malleable-C2](https://github.com/threatexpress/malleable-c2) - I actively contribute to Malleable C2 at each release explaining the different options to help you make better C2 profiles within Cobalt Strike.
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zephrfish&show_icons=true&title_color=05CD0E&text_color=05CD0E&bg_color=040504&icon_color=23A960&border_color=23A960" width=405/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZephrFish&theme=aura&layout=compact&title_color=05CD0E&text_color=05CD0E&bg_color=040504&border_color=23A960" width=340 />
 </a>
-
+  </p>
+  
 <br>
 <br>
-<p align="left">
+<p align="center">
       <img src="https://img.shields.io/twitter/follow/ZephrFish?style=flat-square" />
-    </a>
-          <img src="https://img.shields.io/github/followers/ZephrFish?label=follow%20github&style=flat-square" />
     </a>
           <img src="https://komarev.com/ghpvc/?username=ZephrFish&label=Profile%20views&color=0e75b6&style=flat" />
     </a>
