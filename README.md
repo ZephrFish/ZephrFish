@@ -7,6 +7,9 @@ Andy has been consulting in offensive security for over a decade, focusing on re
   <a href="https://github.com/ZephrFish"><img src="https://img.shields.io/github/followers/ZephrFish?color=%2328aee4&logoColor=28aee4&logo=github&style=for-the-badge"></a>
 </p>
 
+![image](https://user-images.githubusercontent.com/5783068/192357131-46ffb7b6-5903-4d2a-b76b-8c95b0d331c2.png)
+
+
 ## ✔️ Projects:
 - [AzureAttackKit](https://github.com/ZephrFish/AzureAttackKit)
 - [AutoHoneyPoC](https://github.com/ZephrFish/AutoHoneyPoC)
