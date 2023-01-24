@@ -11,6 +11,7 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 
 
 ## ✔️ Projects:
+- [CredMaster](https://github.com/knavesec/CredMaster) - I actively help with Credmaster, having written several modules and helped with the overhaul of Credmaster 2.0.
 - [AzureAttackKit](https://github.com/ZephrFish/AzureAttackKit)
 - [AutoHoneyPoC](https://github.com/ZephrFish/AutoHoneyPoC)
 - [SandboxSpy](https://github.com/ZephrFish/SandboxSpy)
