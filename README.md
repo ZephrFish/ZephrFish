@@ -33,6 +33,11 @@ For those that don't know Andy, he is a strong believer in passing knowledge on 
 
 <img src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" data-canonical-src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" width="600" height="500" />
 
+### 2023
+- [SecuriTay 2023. - Demonstrating Actionable Value, Why the Business Hates Pentesters](https://youtu.be/u4sJyeVRjuM?si=X1oXBnieDF0CScR2)
+- [Steelcon 2023. - Adversaries Have It Easy. Live FAFO Pnwing A Network](https://www.youtube.com/watch?v=YjgCVgUwrBE)
+- [BSides Leeds 2023. - Pentests: The Jason Bourne Approach Turning Regular Biros Into Weapons](https://www.youtube.com/watch?v=4Mqz_8EMd6o)
+
 ### 2022
 - [SecuriTay X 2022. - Accidental Insider Threats - HoneyPoC Part 2](https://www.youtube.com/watch?v=6TfZZsTiQUs)
 
