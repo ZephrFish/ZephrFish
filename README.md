@@ -35,7 +35,7 @@ For those that don't know Andy, he is a strong believer in passing knowledge on 
 
 ### 2023
 - [SecuriTay 2023. - Demonstrating Actionable Value, Why the Business Hates Pentesters](https://youtu.be/u4sJyeVRjuM?si=X1oXBnieDF0CScR2)
-- [Steelcon 2023. - Adversaries Have It Easy. Live FAFO Pnwing A Network](https://www.youtube.com/watch?v=YjgCVgUwrBE)
+- [Steelcon 2023. - Adversaries Have It Easy. Live FAFO Pwning A Network](https://www.youtube.com/watch?v=YjgCVgUwrBE)
 - [BSides Leeds 2023. - Pentests: The Jason Bourne Approach Turning Regular Biros Into Weapons](https://www.youtube.com/watch?v=4Mqz_8EMd6o)
 
 ### 2022
