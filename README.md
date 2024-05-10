@@ -40,7 +40,7 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 <img src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" data-canonical-src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" width="600" height="500" />
 
 ### 2024 
-- [SecuriTay 2024. - Measure Twice, Cut Once - The Importance of Lab-ing out Attack Paths](https://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktophttps://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktop) - recording will be out soon
+- [SecuriTay 2024. - Measure Twice, Cut Once - The Importance of Lab-ing out Attack Paths](https://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktophttps://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktop) - [Recording](https://www.youtube.com/watch?v=MAT_-BJxABI)
 
 ### 2023
 - [SecuriTay 2023. - Demonstrating Actionable Value, Why the Business Hates Pentesters](https://youtu.be/u4sJyeVRjuM?si=X1oXBnieDF0CScR2)
