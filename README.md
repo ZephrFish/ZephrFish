@@ -30,7 +30,7 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 
 
 ## ⌨️ Blog: 
-I post most of my research and other interesting tutorials on [my blog](https://blog.zsec.uk)
+I post most of my research and other interesting tutorials on [my blog](https://blog.zsec.uk); I also have a photos blog where I share pics I take; [ZephrSnaps](https://photos.zsec.uk)
 
 ## 📚 Book:
 <img src="https://d2sofvawe08yqg.cloudfront.net/ltr101-breaking-into-infosec/hero?1616712223" data-canonical-src="https://d2sofvawe08yqg.cloudfront.net/ltr101-breaking-into-infosec/hero?1616712223" width="250" height="300" />
@@ -41,8 +41,17 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 
 <img src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" data-canonical-src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" width="600" height="500" />
 
+### 2025 
+- SecuriTay 2025. - Think Like An Adversary - Recording coming soon
+
+#### Upcoming [Potential Talks]
+- Steelcon 2025. - Title TBC
+- ????
+
 ### 2024 
 - [SecuriTay 2024. - Measure Twice, Cut Once - The Importance of Lab-ing out Attack Paths](https://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktophttps://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktop) - [Recording](https://www.youtube.com/watch?v=MAT_-BJxABI)
+- Steelcon 2024. - Mastering Shadows: Blending [Offensive] Intelligence with Adversarial Emulation - Was not recorded sadly!
+- FalCon Europe 2024. - Think Like an Adversary  - Was not recorded sadly! 
 
 ### 2023
 - [SecuriTay 2023. - Demonstrating Actionable Value, Why the Business Hates Pentesters](https://youtu.be/u4sJyeVRjuM?si=X1oXBnieDF0CScR2)
