@@ -15,14 +15,16 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 ## ✔️ Projects:
 - [ChunkyIngress](https://github.com/ZephrFish/ChunkyIngress) - A tool for ingressing large blocks of text in limited environments
 - [DynamicMSBuilder](https://github.com/ZephrFish/DynamicMSBuilder)
+- [RepoMan](https://github.com/ZephrFish/RepoMan) - Dynamic Git Commits using LLMs
+- [HelloJackHunter](https://github.com/ZephrFish/HelloJackHunter) - Dynamic DLL Hijacking and Exports
 - [CredMaster](https://github.com/knavesec/CredMaster) - I actively help with Credmaster, having written several modules and helped overhaul Credmaster 2.0.
 - [AzureAttackKit](https://github.com/ZephrFish/AzureAttackKit)
 - [AutoHoneyPoC](https://github.com/ZephrFish/AutoHoneyPoC)
 - [SandboxSpy](https://github.com/ZephrFish/SandboxSpy)
 - [BurpFeed](https://github.com/ZephrFish/BurpFeed)
-- [PrintNightmare Detection Info](https://github.com/LaresLLC/CVE-2021-1675)
-- [SlinkyCat](https://github.com/LaresLLC/SlinkyCat)
-- [Offensive Sysadmin Suite](https://github.com/LaresLLC/OffensiveSysAdmin)
+- [PrintNightmare Detection Info](https://github.com/ZephrFish/CVE-2021-1675)
+- [SlinkyCat](https://github.com/ZephrFish/SlinkyCat)
+- [Offensive Sysadmin Suite](https://github.com/ZephrFish/OffensiveSysAdmin)
 - [HelpColor Aggressor Script](https://github.com/ZephrFish/HelpColor) - I try to keep Outflank's aggressor up to date with new cool BOFs and things :) 
 - [Malleable-C2](https://github.com/threatexpress/malleable-c2) - I actively contribute to Malleable C2 at each release, explaining the different options to help you make better C2 profiles within Cobalt Strike.
 
