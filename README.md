@@ -42,19 +42,19 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 <img src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" data-canonical-src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" width="600" height="500" />
 
 ### 2025 
-- SecuriTay 2025. - Think Like An Adversary - Recording coming soon
+- Securi-Tay 2025. - Think Like An Adversary - [Recording](https://www.youtube.com/watch?v=i1mlVhGGWlU)
 
 #### Upcoming [Potential Talks]
 - Steelcon 2025. - Title TBC
 - ????
 
 ### 2024 
-- [SecuriTay 2024. - Measure Twice, Cut Once - The Importance of Lab-ing out Attack Paths](https://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktophttps://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktop) - [Recording](https://www.youtube.com/watch?v=MAT_-BJxABI)
+- [Securi-Tay 2024. - Measure Twice, Cut Once - The Importance of Lab-ing out Attack Paths](https://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktophttps://www.linkedin.com/posts/norecruiters_measure-twice-cut-once-securitay-2024-activity-7169388170734723072-WJrV/?utm_source=share&utm_medium=member_desktop) - [Recording](https://www.youtube.com/watch?v=MAT_-BJxABI)
 - Steelcon 2024. - Mastering Shadows: Blending [Offensive] Intelligence with Adversarial Emulation - Was not recorded sadly!
 - FalCon Europe 2024. - Think Like an Adversary  - Was not recorded sadly! 
 
 ### 2023
-- [SecuriTay 2023. - Demonstrating Actionable Value, Why the Business Hates Pentesters](https://youtu.be/u4sJyeVRjuM?si=X1oXBnieDF0CScR2)
+- [Securi-Tay 2023. - Demonstrating Actionable Value, Why the Business Hates Pentesters](https://youtu.be/u4sJyeVRjuM?si=X1oXBnieDF0CScR2)
 - [Steelcon 2023. - Adversaries Have It Easy. Live FAFO Pwning A Network](https://www.youtube.com/watch?v=YjgCVgUwrBE)
 - [BSides Leeds 2023. - Pentests: The Jason Bourne Approach Turning Regular Biros Into Weapons](https://www.youtube.com/watch?v=4Mqz_8EMd6o)
 
@@ -67,7 +67,7 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 
 
 ### 2020
-- [SecuriTay 2020. - So You want to learn Red Teaming](https://youtu.be/LbvMF4sN_mo)
+- [Securi-Tay 2020. - So You want to learn Red Teaming](https://youtu.be/LbvMF4sN_mo)
 - [DC44141 April 2020. - So You Want To Learn Red Teaming](https://www.youtube.com/watch?v=bNedi7F-97M&feature=emb_logo)
 - [TUDublin HackerSoc. Red Team Talk](https://www.youtube.com/watch?time_continue=482&v=BmkDMPef7f0&feature=emb_logo)
 - [CRESTCon 2020. Nijūshiho - A Year Targeting Nippon](https://www.youtube.com/watch?v=nGBXUYbMqFk&feature=emb_logo)
