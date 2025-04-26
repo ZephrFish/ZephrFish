@@ -45,7 +45,7 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 - Securi-Tay 2025. - Think Like An Adversary - [Recording](https://www.youtube.com/watch?v=i1mlVhGGWlU)
 
 #### Upcoming [Potential Talks]
-- Steelcon 2025. - Title TBC
+- Steelcon 2025. - Drinking from the Same Firehose - How Red Teams Outrun Threat Actors
 - ????
 
 ### 2024 
