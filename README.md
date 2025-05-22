@@ -1,4 +1,4 @@
-# 🔑 Intro:
+# Intro:
 
 Andy has been consulting in offensive security for over a decade, focusing on red teaming and simulated attacks with a side of threat intelligence and purple teaming. Leading engagements of varying sizes and lengths, helping grow teams and encouraging risk-driven understanding.
 
@@ -12,7 +12,7 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 ![image](https://user-images.githubusercontent.com/5783068/192357131-46ffb7b6-5903-4d2a-b76b-8c95b0d331c2.png)
 
 
-## ✔️ Projects:
+## Projects:
 - [ChunkyIngress](https://github.com/ZephrFish/ChunkyIngress) - A tool for ingressing large blocks of text in limited environments
 - [DynamicMSBuilder](https://github.com/ZephrFish/DynamicMSBuilder)
 - [RepoMan](https://github.com/ZephrFish/RepoMan) - Dynamic Git Commits using LLMs
@@ -29,15 +29,15 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 - [Malleable-C2](https://github.com/threatexpress/malleable-c2) - I actively contribute to Malleable C2 at each release, explaining the different options to help you make better C2 profiles within Cobalt Strike.
 
 
-## ⌨️ Blog: 
+## Blog: 
 I post most of my research and other interesting tutorials on [my blog](https://blog.zsec.uk); I also have a photos blog where I share pics I take; [ZephrSnaps](https://photos.zsec.uk)
 
-## 📚 Book:
+## Book:
 <img src="https://d2sofvawe08yqg.cloudfront.net/ltr101-breaking-into-infosec/hero?1616712223" data-canonical-src="https://d2sofvawe08yqg.cloudfront.net/ltr101-breaking-into-infosec/hero?1616712223" width="250" height="300" />
 
 For those that don't know Andy, he is a firm believer in passing knowledge on and supporting the infosec community he does this by providing tutorials on his blog running his local DEF CON Chapter & has also published two books [Breaking into Information Security](https://leanpub.com/ltr101-breaking-into-infosec) and [LTR102](https://leanpub.com/b/LearningTheRopes). He also helps out at DEF CON as a SOC Goon (Red Shirt) too each year (since DC25), assisting the SOC with operations and people flow.
 
-## 🎤 Talks:
+## Talks:
 
 <img src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" data-canonical-src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" width="600" height="500" />
 
@@ -87,14 +87,15 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 - [Steelcon 2018. Breaking Into Information Security: Learning The Ropes 101](https://www.youtube.com/watch?v=4nLMcCCmEH0)
 
 
-## 🏆 Bug Bounty: 
+## Bug Bounty: 
 - [BugCrowd](https://bugcrowd.com/ZephrFish)
 - [HackerOne](https://hackerone.com/ZephrFish)
 
-## 📛 Badges
-Andy has been in the IT security industry for just over 15 years, a decade of which has been dedicated to security and offensive operations. He previously held CREST’s CCT Infrastructure certification, which is highly sought-after, and CHECK Team Leader status. 
-In addition to his years in the industry, he holds several other certifications and accolades, including CRTO, OSCP, and OSWP.
+## Badges
+Andy has been in the IT security industry for just over 15 years, a decade of which has been dedicated to security and offensive operations. Currently holds CREST's Certified Red Team Specialist (CCRTS) and he has previously held CREST’s CCT Infrastructure certification, which is highly sought-after, and CHECK Team Leader status. 
+In addition to his years in the industry, he holds several other certifications and accolades, including CCRTS, CRTO, OSCP, and OSWP.
 
 <img src="https://web.archive.org/web/20210704063910/https://camo.githubusercontent.com/7abf84b96fcd337d50c06abe9c61deb49764ff844f293d1b4c6a8a11d1a4d136/68747470733a2f2f6d656469612e65752e62616467722e636f6d2f75706c6f6164732f6261646765732f617373657274696f6e2d73724c3133356238512d7530467a41346c757a616e672e706e67" data-canonical-src="https://web.archive.org/web/20210704063910/https://camo.githubusercontent.com/7abf84b96fcd337d50c06abe9c61deb49764ff844f293d1b4c6a8a11d1a4d136/68747470733a2f2f6d656469612e65752e62616467722e636f6d2f75706c6f6164732f6261646765732f617373657274696f6e2d73724c3133356238512d7530467a41346c757a616e672e706e67" width="250" height="250" /><img src="https://media.eu.badgr.com/assertion-ddb1c09e327b340fee8e5bbd6e58ba1e.png" data-canonical-src="https://media.eu.badgr.com/assertion-ddb1c09e327b340fee8e5bbd6e58ba1e.png" width="250" height="250" /><img src="https://media.eu.badgr.com/uploads/badges/585c625b45167c849f8ae58054984c1b08f735c547b945818e75f661d742d25f.png" data-canonical-src="https://media.eu.badgr.com/uploads/badges/585c625b45167c849f8ae58054984c1b08f735c547b945818e75f661d742d25f.png" width="250" height="250" />
+<img src="https://images.credly.com/size/680x680/images/57ef4b7f-6bc0-43ef-aa44-e967e4fd0c79/blob" width="250" height="250" />
 
 
