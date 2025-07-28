@@ -36,7 +36,7 @@ I post most of my research and other interesting tutorials on [my blog](https://
 ## Book:
 <img src="https://d2sofvawe08yqg.cloudfront.net/ltr101-breaking-into-infosec/hero?1616712223" data-canonical-src="https://d2sofvawe08yqg.cloudfront.net/ltr101-breaking-into-infosec/hero?1616712223" width="250" height="300" />
 
-For those that don't know Andy, he is a firm believer in passing knowledge on and supporting the infosec community he does this by providing tutorials on his blog running his local DEF CON Chapter & has also published two books [Breaking into Information Security](https://leanpub.com/ltr101-breaking-into-infosec) and [LTR102](https://leanpub.com/b/LearningTheRopes). He also helps out at DEF CON as a SOC Goon (Red Shirt) too each year (since DC25), assisting the SOC with operations and people flow.
+For those that don't know Andy, he is a firm believer in passing knowledge on and supporting the infosec community he does this by providing tutorials on his blog running his local DEF CON Chapter & has also published two books [Breaking into Information Security](https://leanpub.com/ltr101-breaking-into-infosec) and [LTR102](https://leanpub.com/b/LearningTheRopes). He also helps out at DEF CON as a SOC Goon (Red Shirt) too each year (since DC24), assisting the SOC with operations and people flow.
 
 ## Talks:
 
