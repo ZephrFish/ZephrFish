@@ -13,6 +13,7 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 
 
 ## Projects:
+- [pyLDAPGui](https://github.com/ZephrFish/pyLDAPGui) - Python based GUI LDAP browser app thing
 - [GoClipC2](https://github.com/ZephrFish/GoClipC2) - Clipboard for C2 on Windows
 - [ChunkyIngress](https://github.com/ZephrFish/ChunkyIngress) - A tool for ingressing large blocks of text in limited environments
 - [DynamicMSBuilder](https://github.com/ZephrFish/DynamicMSBuilder)
