@@ -29,6 +29,7 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 - [Offensive Sysadmin Suite](https://github.com/ZephrFish/OffensiveSysAdmin)
 - [HelpColor Aggressor Script](https://github.com/ZephrFish/HelpColor) - I try to keep Outflank's aggressor up to date with new cool BOFs and things :) 
 - [Malleable-C2](https://github.com/threatexpress/malleable-c2) - I actively contribute to Malleable C2 at each release, explaining the different options to help you make better C2 profiles within Cobalt Strike.
+- [OmniProx](https://github.com/ZephrFish/OmniProx) - An IP rotation tool similar to how FireProx operates but for different providers
 
 
 ## Blog: 
