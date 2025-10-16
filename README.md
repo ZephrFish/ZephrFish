@@ -46,7 +46,7 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 
 ### 2025 
 - Securi-Tay 2025. - Think Like An Adversary - [Recording](https://www.youtube.com/watch?v=i1mlVhGGWlU)
-- Steelcon 2025. - Drinking from the Same Firehose - How Red Teams Outrun Threat Actors
+- Steelcon 2025. - Drinking from the Same Firehose - How Red Teams Outrun Threat Actors - [Recording](https://youtu.be/dMQcKIJbnSI?si=KT_cbSFco8S267Cz)
 - ????
 
 ### 2024 
