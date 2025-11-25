@@ -13,7 +13,7 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 
 
 ## Projects:
--[pR1](https://github.com/ZephrFish/pR1) - serverless URL shortener built on Cloudflare Workers
+- [pR1](https://github.com/ZephrFish/pR1) - serverless URL shortener built on Cloudflare Workers
 - [LCA](https://github.com/ZephrFish/LCA) - Local Code Agent, a similar idea to Claude Code but for lmstudio usage locally instead, useful for tool development
 - [pyLDAPGui](https://github.com/ZephrFish/pyLDAPGui) - Python based GUI LDAP browser app thing
 - [GoClipC2](https://github.com/ZephrFish/GoClipC2) - Clipboard for C2 on Windows
