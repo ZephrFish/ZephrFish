@@ -33,6 +33,10 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 - [Malleable-C2](https://github.com/threatexpress/malleable-c2) - I actively contribute to Malleable C2 at each release, explaining the different options to help you make better C2 profiles within Cobalt Strike.
 - [OmniProx](https://github.com/ZephrFish/OmniProx) - An IP rotation tool similar to how FireProx operates but for different providers
 
+## Pages
+- [Breakout Kit](https://break.yxz.red/)
+- [Kerberos Errors](https://kerberos.errorism.io/)
+- [AD CS Quick Ref](https://emporium.yxz.red/)
 
 ## Blog: 
 I post most of my research and other interesting tutorials on [my blog](https://blog.zsec.uk); I also have a photos blog where I share pics I take; [ZephrSnaps](https://photos.zsec.uk)
