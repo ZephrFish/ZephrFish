@@ -41,6 +41,11 @@ Andy has been consulting in offensive security for over a decade, focusing on re
 ## Blog: 
 I post most of my research and other interesting tutorials on [my blog](https://blog.zsec.uk); I also have a photos blog where I share pics I take; [ZephrSnaps](https://photos.zsec.uk)
 
+## Course:
+I have written a course aimed at professionals wanting to learn more about red teaming, it focuses on red teaming from the perspective of not depending upon C2 and traditional malware but also teaches the background to red teaming that a lot of courses miss. https://lms.zsec.red 
+
+<img width="250" height="250" alt="CertificateLogo_new" src="https://github.com/user-attachments/assets/2391a29d-6abc-4a0a-a914-0ab4b534e8d8" />
+
 ## Book:
 <img src="https://d2sofvawe08yqg.cloudfront.net/ltr101-breaking-into-infosec/hero?1616712223" data-canonical-src="https://d2sofvawe08yqg.cloudfront.net/ltr101-breaking-into-infosec/hero?1616712223" width="250" height="300" />
 
@@ -106,6 +111,6 @@ In addition to his years in the industry, he holds several other certifications 
 
 <img src="https://web.archive.org/web/20210704063910/https://camo.githubusercontent.com/7abf84b96fcd337d50c06abe9c61deb49764ff844f293d1b4c6a8a11d1a4d136/68747470733a2f2f6d656469612e65752e62616467722e636f6d2f75706c6f6164732f6261646765732f617373657274696f6e2d73724c3133356238512d7530467a41346c757a616e672e706e67" data-canonical-src="https://web.archive.org/web/20210704063910/https://camo.githubusercontent.com/7abf84b96fcd337d50c06abe9c61deb49764ff844f293d1b4c6a8a11d1a4d136/68747470733a2f2f6d656469612e65752e62616467722e636f6d2f75706c6f6164732f6261646765732f617373657274696f6e2d73724c3133356238512d7530467a41346c757a616e672e706e67" width="250" height="250" /><img src="https://media.eu.badgr.com/assertion-ddb1c09e327b340fee8e5bbd6e58ba1e.png" data-canonical-src="https://media.eu.badgr.com/assertion-ddb1c09e327b340fee8e5bbd6e58ba1e.png" width="250" height="250" /><img src="https://media.eu.badgr.com/uploads/badges/585c625b45167c849f8ae58054984c1b08f735c547b945818e75f661d742d25f.png" data-canonical-src="https://media.eu.badgr.com/uploads/badges/585c625b45167c849f8ae58054984c1b08f735c547b945818e75f661d742d25f.png" width="250" height="250" />
 <img src="https://images.credly.com/size/680x680/images/57ef4b7f-6bc0-43ef-aa44-e967e4fd0c79/blob" width="250" height="250" />
-<img width="250" height="250" alt="CertificateLogo_new" src="https://github.com/user-attachments/assets/2391a29d-6abc-4a0a-a914-0ab4b534e8d8" />
+
 
 
