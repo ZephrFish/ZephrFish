@@ -2,6 +2,8 @@
 
 Andy has been consulting in offensive security for over a decade, focusing on red teaming and simulated attacks with a side of threat intelligence and purple teaming. Leading engagements of varying sizes and lengths, helping grow teams and encouraging risk-driven understanding.
 
+Creator of [ZephrSec LMS](https://lms.zsec.red) and [ZephrSec](https://zephrsec.com).
+
 <p align="center">
   <a href="https://twitter.com/ZephrFish"><img src="https://img.shields.io/twitter/follow/ZephrFish?color=28aee4&label=%40zEPhrfish&logo=twitter&logoColor=28aee4&style=for-the-badge"></a>
   <a href="https://github.com/ZephrFish"><img src="https://img.shields.io/github/followers/ZephrFish?color=%2328aee4&logoColor=28aee4&logo=github&style=for-the-badge"></a>
