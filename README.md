@@ -17,7 +17,7 @@ Creator of [ZephrSec LMS](https://lms.zsec.red) and [ZephrSec](https://zephrsec.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZephrFish/ZephrFish/output/pacman-contribution-graph.svg">
 </picture>
 
-![image](https://user-images.githubusercontent.com/5783068/192357131-46ffb7b6-5903-4d2a-b76b-8c95b0d331c2.png)
+
 
 
 ## Projects:
