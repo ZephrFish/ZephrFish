@@ -16,12 +16,9 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@9eca7a760e7630f98079be52518346637b47c553
+        uses: ZephrFish/pacman-contribution-graph@6fa1ebcf76d799d3de525d3e0f86c8d7029ea002
         with:
           github_user_name: ${{ github.repository_owner }}
         env:
