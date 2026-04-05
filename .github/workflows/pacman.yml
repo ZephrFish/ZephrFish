@@ -18,7 +18,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: ZephrFish/pacman-contribution-graph@44255c77361556a7f4c6636c05272bba3703041e
+        uses: ZephrFish/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
         env:
