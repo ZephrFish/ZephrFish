@@ -71,7 +71,7 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 ### 2025 
 - Securi-Tay 2025. - Think Like An Adversary - [Recording](https://www.youtube.com/watch?v=i1mlVhGGWlU)
 - Steelcon 2025. - Drinking from the Same Firehose - How Red Teams Outrun Threat Actors - [Recording](https://youtu.be/dMQcKIJbnSI?si=KT_cbSFco8S267Cz)
-- Hack Glasgow. - From Framing Risks to Framing Scenes - Transferable Skills Between Security and Hobbies- Was not recorded sadly!
+- Hack Thursday. - From Framing Risks to Framing Scenes - Transferable Skills Between Security and Hobbies- Was not recorded sadly!
 - FalCon Europe 2025. DORA and Friends - Navigating Regulatory Red Teaming - Was not recorded sadly! 
 
 
