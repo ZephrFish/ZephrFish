@@ -64,9 +64,10 @@ For those that don't know Andy, he is a firm believer in passing knowledge on an
 <img src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" data-canonical-src="https://blog.zsec.uk/content/images/size/w1000/2021/03/image-2.png" width="600" height="500" />
 
 ### 2026
-- TBC. -
-- TBC. -
-- TBC. -
+- Le Tour De Hack 2026. - Building Chaos at Scale - (Was not recorded)
+- BSides Leeds 2026. - Archaic Creativity - TBC
+- Steelcon 2026. - Overengineering it Like You'd Steal It -  TBC
+- Hack Glasgow 2026. - The Hunted becomes the Hunter - TBC
 
 ### 2025 
 - Securi-Tay 2025. - Think Like An Adversary - [Recording](https://www.youtube.com/watch?v=i1mlVhGGWlU)
