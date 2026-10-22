@@ -19,6 +19,7 @@ Creator of [ZephrSec LMS](https://lms.zsec.red) and [ZephrSec](https://zephrsec.
 
 
 
+![ZephrFish's GitHub stats](https://github-stats-extended.vercel.app/api?username=ZephrFish)
 
 ## Projects:
 - [pR1](https://github.com/ZephrFish/pR1) - serverless URL shortener built on Cloudflare Workers
